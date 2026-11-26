@@ -3,7 +3,6 @@ on:
   push:
     branches: [main]
     paths-ignore:
-      - '**.pdf'
       - '**.md'
   workflow_dispatch:
 permissions:
@@ -23,6 +22,8 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build -- --base=/youresolve-ai/
+      - name: Incluir a apresentação no site
+        run: cp docs/YouResolve-AI-Pitch.pdf dist/apresentacao.pdf
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

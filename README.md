@@ -6,7 +6,7 @@
 
 Quando um pedido é reembolsado e a comissão continua positiva, quem investiga precisa encontrar os lançamentos que explicam a diferença. O YouResolve AI reúne o pedido, a regra acionada e as evidências para que o analista registre sua decisão.
 
-**[Experimentar o protótipo](https://brunno-fr.github.io/youresolve-ai/)** · **[Ler a apresentação em PDF](docs/YouResolve-AI-Pitch.pdf)** · [Baixar o PowerPoint editável](https://raw.githubusercontent.com/Brunno-fr/youresolve-ai/main/docs/YouResolve-AI-Pitch.pptx)
+**[Experimentar o protótipo](https://brunno-fr.github.io/youresolve-ai/)** · **[Ler a apresentação em PDF](https://brunno-fr.github.io/youresolve-ai/apresentacao.pdf)** · [Baixar o PowerPoint editável](https://raw.githubusercontent.com/Brunno-fr/youresolve-ai/main/docs/YouResolve-AI-Pitch.pptx)
 
 ## Experimente em dois minutos
 
