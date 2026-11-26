@@ -1,0 +1,6 @@
+id,orderId,kind,amountCents,at
+L-01,YS-DEMO-01,payment,20000,2026-11-20
+L-02,YS-DEMO-01,commission,4000,2026-11-20
+L-03,YS-DEMO-01,refund,20000,2026-11-21
+L-04,YS-DEMO-02,payment,30000,2026-11-20
+L-05,YS-DEMO-02,commission,4500,2026-11-20
